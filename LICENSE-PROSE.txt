@@ -1,0 +1,7 @@
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+
+Copyright (c) 2026 The 1720 Twin Bubbles Forensic Casebook Contributors
+
+This license applies to all narrative prose, guides, PDF editions, visual schematics, and Excel workbook layouts in this repository (README.md, casebook.md, 1720_Twin_Bubbles_Casebook.pdf, instructor_debrief.md, data/sources_index.md, assets/*, workbook/1720_twin_bubbles_challenge.xlsx, and workbook/1720_twin_bubbles_solution_key.xlsx). Code and CSV data files are separately licensed under the MIT License (LICENSE-CODE.txt).
+
+Full legal code: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode

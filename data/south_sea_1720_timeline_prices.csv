@@ -1,0 +1,17 @@
+record_id,date,phase,event_title,south_sea_price_pct,tranche_nominal_gbp,issue_price_pct,down_payment_pct,gross_proceeds_gbp,initial_cash_due_gbp,pledged_loans_gbp,green_book_pool_gbp,clawback_gross_gbp,clawback_allowance_gbp,forensic_flag_note,primary_source_citation
+1,1711-09-01,Charter,South Sea Charter Act (9 Anne c. 21; ~£9.18M war debt @ 6%),110,9177000,100,100,9177000,9177000,0,0,0.0,0.0,VERIFIED_PRIMARY,9 Anne c. 21
+2,1720-01-22,Parliament Bid,"South Sea bid (£7,567,500) defeats BoE (£5,547,600) by +36.41%",135,7567500,100,100,7567500,7567500,0,574500,0.0,0.0,"VARIANCE_FLAG: DNB £7,567,000 vs Noorthouck £7,567,500",Commons Vol. 6; Noorthouck (1773)
+3,1720-04-07,Enabling Act,South Sea Act (6 Geo. I c. 4) targets ~£30.98M redeemable/annuity pool,300,30981712,100,0,0,0,0,574500,0.0,0.0,Long annuity statutory multiplier [PENDING ARCHIVE],6 Geo. I c. 4; Smith (1776)
+4,1720-04-14,Money Sub 1,1st Money Subscription (£2.25M nominal @ 300% = £6.75M),300,2250000,300,0,6750000,0,0,574500,0.0,0.0,Down-payment % [PENDING ARCHIVE],Noorthouck (1773) pp. 306-325
+5,1720-04-29,Money Sub 2,2nd Money Subscription (£1.50M nominal @ 400% = £6.00M),400,1500000,400,0,6000000,0,0,574500,0.0,0.0,Down-payment % [PENDING ARCHIVE],Noorthouck (1773) pp. 306-325
+6,1720-05-19,Conversion #1,1st Annuity Conversion @ 375% (Short Annuity £910 Surplus Stock = 2.60x),375,0,375,0,0,0,0,574500,0.0,0.0,SHORT_ANNUITY_SURPLUS_STOCK_2.60X,Noorthouck (1773); Philippovich (1911)
+7,1720-06-02,June Surge,Early June spot surge to £890 (Duguid benchmark),890,0,0,0,0,0,11000000,574500,0.0,0.0,SURPLUS_STOCK_VALUATION_SPIKE,Duguid; 1911 Britannica
+8,1720-06-11,Bubble Act,Royal Assent to Bubble Act (6 Geo. I c. 18),890,0,0,0,0,0,11000000,574500,0.0,0.0,STATUTORY_TRIGGER,6 Geo. I c. 18
+9,1720-06-17,Money Sub 3,"3rd Money Subscription (£5.00M nominal @ 1,000%; 10% down = £5M cash)",1000,5000000,1000,10,50000000,5000000,11000000,574500,0.0,0.0,SUBSCRIPTION_CALL_LEVERAGE_10X,Noorthouck (1773)
+10,1720-06-25,Forward Peak,"Exchange Alley peak forward quote £1,050 (transfer books shut 23 Jun)",1050,0,0,0,0,0,11000000,574500,0.0,0.0,GREEN_LEDGER_PEAK_PAYOFF_£5.26M,1911 Britannica; Commons Vol. 6
+11,1720-08-18,Scire Facias,Scire facias writs against rival bubbles spark cross-margin selloff,820,0,0,0,0,0,11000000,574500,0.0,0.0,CROSS_MARGIN_LIQUIDATION_TRIGGER,1911 Britannica
+12,1720-08-24,Money Sub 4,"4th Money Subscription (£1.25M nominal @ 1,000%; 20% down = £2.5M)",820,1250000,1000,20,12500000,2500000,11000000,574500,0.0,0.0,OPENED_AT_820_SPOT,Noorthouck (1773)
+13,1720-09-15,Margin Wave,Mid-Sept margin liquidation wave; spot drops to £520 (near £500 breach),520,0,0,0,0,0,11000000,574500,0.0,0.0,NEAR_COLLATERAL_BREACH,1911 Britannica
+14,1720-09-20,Call Relief,"General Court slashes 3rd & 4th Subs 1,000% -> 400% (-£37.5M relief)",410,0,400,0,37750000,0,11000000,574500,0.0,0.0,COLLATERAL_BREACH_LTV_121.95%,Noorthouck (1773)
+15,1720-10-14,October Trough,Post-crash trough @ £170 (-£7.26M loan deficit; 294.12% LTV),170,0,0,0,0,0,11000000,574500,0.0,0.0,LOAN_IMPAIRMENT_66.00%,1911 Britannica
+16,1721-07-29,Clawbacks,South Sea Sufferers Act (7 Geo. I c. 28): 33 estates (82.47% clawback),170,0,0,0,0,0,0,936000,2023123.88,354600.0,"EXACT_ALLOWANCE_MATCH_£354,600",7 Geo. I c. 28; Noorthouck (1773); Francis (1847)

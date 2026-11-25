@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 360" font-family="Helvetica, Arial, sans-serif">
+  <rect width="960" height="360" fill="#F8FAFC"/>
+  <text x="480" y="30" text-anchor="middle" font-size="18" font-weight="bold" fill="#1E293B">Part II (London, 1711–1723): Surplus Stock, Green Ledger Bribes &amp; Corporate Credit Loop</text>
+  <text x="480" y="48" text-anchor="middle" font-size="11" fill="#475569">6 Geo. I c. 4 · Commons Secret Committee (Vol. 6) · Noorthouck (1773) · Francis (1847) · 7 Geo. I c. 28</text>
+
+  <rect x="25" y="75" width="170" height="92" rx="7" fill="#1E293B"/>
+  <text x="110" y="100" text-anchor="middle" font-size="11.5" font-weight="bold" fill="#FFFFFF">1. 6 Geo. I c. 4 Bid</text>
+  <text x="110" y="119" text-anchor="middle" font-size="9.5" fill="#E2E8F0">£30.98M Target Debt Pool</text>
+  <text x="110" y="135" text-anchor="middle" font-size="9.5" fill="#E2E8F0">Bid £7.57M vs BoE £5.55M</text>
+  <text x="110" y="152" text-anchor="middle" font-size="9.5" fill="#FDE68A">2.60x Short-Annuity Surplus</text>
+
+  <rect x="215" y="75" width="170" height="92" rx="7" fill="#7F1D1D"/>
+  <text x="300" y="100" text-anchor="middle" font-size="11.5" font-weight="bold" fill="#FFFFFF">2. Green Book Options</text>
+  <text x="300" y="119" text-anchor="middle" font-size="9.5" fill="#FEE2E2">£574,500 Pool A (Zero Cash)</text>
+  <text x="300" y="135" text-anchor="middle" font-size="9.5" fill="#FEE2E2">£936,000 Pool B Allocations</text>
+  <text x="300" y="152" text-anchor="middle" font-size="9.5" fill="#FDE68A">£5.26M Peak Option Spread</text>
+
+  <rect x="405" y="75" width="170" height="92" rx="7" fill="#7F1D1D"/>
+  <text x="490" y="100" text-anchor="middle" font-size="11.5" font-weight="bold" fill="#FFFFFF">3. Subs &amp; £11M Loans</text>
+  <text x="490" y="119" text-anchor="middle" font-size="9.5" fill="#FEE2E2">4 Money Subs: £75.25M Gross</text>
+  <text x="490" y="135" text-anchor="middle" font-size="9.5" fill="#FEE2E2">£11M Self-Stock Loans</text>
+  <text x="490" y="152" text-anchor="middle" font-size="9.5" fill="#FDE68A">Sword Blade Bank Clearing</text>
+
+  <rect x="595" y="75" width="170" height="92" rx="7" fill="#7F1D1D"/>
+  <text x="680" y="100" text-anchor="middle" font-size="11.5" font-weight="bold" fill="#FFFFFF">4. Scire Facias Crash</text>
+  <text x="680" y="119" text-anchor="middle" font-size="9.5" fill="#FEE2E2">Aug 1720 Writs -> Margin Call</text>
+  <text x="680" y="135" text-anchor="middle" font-size="9.5" fill="#FEE2E2">£1,050 -> £410 -> £170 Spot</text>
+  <text x="680" y="152" text-anchor="middle" font-size="9.5" fill="#FDE68A">-£7.26M Loan Deficit (294% LTV)</text>
+
+  <rect x="785" y="75" width="150" height="92" rx="7" fill="#334155"/>
+  <text x="860" y="100" text-anchor="middle" font-size="11.5" font-weight="bold" fill="#FFFFFF">5. 7 Geo. I c. 28</text>
+  <text x="860" y="119" text-anchor="middle" font-size="9.5" fill="#E2E8F0">33 Director Estates Stripped</text>
+  <text x="860" y="135" text-anchor="middle" font-size="9.5" fill="#E2E8F0">£2.023M Gross / £354.6k Allow.</text>
+  <text x="860" y="152" text-anchor="middle" font-size="9.5" fill="#FDE68A">82.47% Net Public Clawback</text>
+
+  <line x1="195" y1="121" x2="215" y2="121" stroke="#7F1D1D" stroke-width="2.5"/>
+  <line x1="385" y1="121" x2="405" y2="121" stroke="#7F1D1D" stroke-width="2.5"/>
+  <line x1="575" y1="121" x2="595" y2="121" stroke="#7F1D1D" stroke-width="2.5"/>
+  <line x1="765" y1="121" x2="785" y2="121" stroke="#334155" stroke-width="2.5"/>
+
+  <rect x="25" y="198" width="910" height="135" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5"/>
+  <text x="45" y="224" font-size="12.5" font-weight="bold" fill="#1E293B">Key London Forensic Failure Mechanics</text>
+  <text x="45" y="247" font-size="10.5" fill="#334151">• Surplus Stock Arbitrage: Rising share prices shrank shares owed to annuitants, creating £910 par Surplus Stock per £90 p.a. Short Annuity.</text>
+  <text x="45" y="268" font-size="10.5" fill="#334151">• Circular Vendor Lending: Lending £11M against Company shares/receipts inflated spot quotes but breached collateral below £500/share.</text>
+  <text x="45" y="289" font-size="10.5" fill="#334151">• Insider Call Options: Cashier Robert Knight's Green Book granted £574,500 of zero-cash stock to ministers &amp; courtiers before fleeing to Brabant.</text>
+  <text x="45" y="310" font-size="10.5" fill="#334151">• Parliamentary Clawbacks: Commons upheld executed contracts (259–117) and confiscated £1,668,523.88 (82.47%) across 33 personal estates.</text>
+</svg>

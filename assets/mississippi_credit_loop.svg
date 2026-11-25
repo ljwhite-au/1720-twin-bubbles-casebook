@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 360" font-family="Helvetica, Arial, sans-serif">
+  <rect width="960" height="360" fill="#F8FAFC"/>
+  <text x="480" y="30" text-anchor="middle" font-size="18" font-weight="bold" fill="#1E293B">Part I (Paris, 1716–1721): Monetary-Equity Fusion &amp; The 9,000-Livre Peg Loop</text>
+  <text x="480" y="48" text-anchor="middle" font-size="11" fill="#475569">Steuart (1767) · Wood (1824) · Sumner (1896) · Moran (1863) · Barbier Paris Journal (1720)</text>
+
+  <rect x="25" y="75" width="170" height="92" rx="7" fill="#1E293B"/>
+  <text x="110" y="100" text-anchor="middle" font-size="11.5" font-weight="bold" fill="#FFFFFF">1. Sovereign Debt Swap</text>
+  <text x="110" y="119" text-anchor="middle" font-size="9.5" fill="#E2E8F0">1.5B–1.6B L Crown Debt @ 3%</text>
+  <text x="110" y="135" text-anchor="middle" font-size="9.5" fill="#E2E8F0">624,000 Indes Shares</text>
+  <text x="110" y="152" text-anchor="middle" font-size="9.5" fill="#FDE68A">1,689.5M L Raised (81.5% Prem.)</text>
+
+  <rect x="215" y="75" width="170" height="92" rx="7" fill="#1E293B"/>
+  <text x="300" y="100" text-anchor="middle" font-size="11.5" font-weight="bold" fill="#FFFFFF">2. Bank-Equity Merger</text>
+  <text x="300" y="119" text-anchor="middle" font-size="9.5" fill="#E2E8F0">22 Feb 1720 Fusion:</text>
+  <text x="300" y="135" text-anchor="middle" font-size="9.5" fill="#E2E8F0">Banque Royale + Indes</text>
+  <text x="300" y="152" text-anchor="middle" font-size="9.5" fill="#FDE68A">Specie Discipline Removed</text>
+
+  <rect x="405" y="75" width="170" height="92" rx="7" fill="#7F1D1D"/>
+  <text x="490" y="100" text-anchor="middle" font-size="11.5" font-weight="bold" fill="#FFFFFF">3. 5 Mar 9,000L Put Peg</text>
+  <text x="490" y="119" text-anchor="middle" font-size="9.5" fill="#FEE2E2">Fixed Equity-to-Note Floor</text>
+  <text x="490" y="135" text-anchor="middle" font-size="9.5" fill="#FEE2E2">100% Put = 5.616B L (4.32x Coin)</text>
+  <text x="490" y="152" text-anchor="middle" font-size="9.5" fill="#FDE68A">2.696B L Notes Printed (2.07x)</text>
+
+  <rect x="595" y="75" width="170" height="92" rx="7" fill="#7F1D1D"/>
+  <text x="680" y="100" text-anchor="middle" font-size="11.5" font-weight="bold" fill="#FFFFFF">4. 21 May Shock &amp; Run</text>
+  <text x="680" y="119" text-anchor="middle" font-size="9.5" fill="#FEE2E2">50% Cut Decree (Revoked 27 May)</text>
+  <text x="680" y="135" text-anchor="middle" font-size="9.5" fill="#FEE2E2">Vault Count Refused (Jul 1720)</text>
+  <text x="680" y="152" text-anchor="middle" font-size="9.5" fill="#FDE68A">Notes Extinguished 10 Oct</text>
+
+  <rect x="785" y="75" width="150" height="92" rx="7" fill="#334155"/>
+  <text x="860" y="100" text-anchor="middle" font-size="11.5" font-weight="bold" fill="#FFFFFF">5. 1721 Visa Audit</text>
+  <text x="860" y="119" text-anchor="middle" font-size="9.5" fill="#E2E8F0">511,009 Investor Filings</text>
+  <text x="860" y="135" text-anchor="middle" font-size="9.5" fill="#E2E8F0">2.223B L Gross Claims</text>
+  <text x="860" y="152" text-anchor="middle" font-size="9.5" fill="#FDE68A">48M L/yr Surviving Debt</text>
+
+  <line x1="195" y1="121" x2="215" y2="121" stroke="#1E293B" stroke-width="2.5"/>
+  <line x1="385" y1="121" x2="405" y2="121" stroke="#7F1D1D" stroke-width="2.5"/>
+  <line x1="575" y1="121" x2="595" y2="121" stroke="#7F1D1D" stroke-width="2.5"/>
+  <line x1="765" y1="121" x2="785" y2="121" stroke="#334155" stroke-width="2.5"/>
+
+  <rect x="25" y="198" width="910" height="135" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5"/>
+  <text x="45" y="224" font-size="12.5" font-weight="bold" fill="#1E293B">Key Paris Forensic Failure Mechanics</text>
+  <text x="45" y="247" font-size="10.5" fill="#334151">• Yield Impossibility: At Dec 1719 peak (20,000L = 12B L cap), a 5% market return required 600M L/yr — 46.15% of all French coin (1.3B L).</text>
+  <text x="45" y="268" font-size="10.5" fill="#334151">• Monetary-Equity Trap: Guaranteeing shares at 9,000L in banknotes converted equity selling directly into unbacked fiat creation (2.696B L).</text>
+  <text x="45" y="289" font-size="10.5" fill="#334151">• Audit Obstruction (Barbier Journal, July 1720): Bank Treasurer Bourgeois refused commissioners Fagon &amp; Trudaine a physical gold-bag count.</text>
+  <text x="45" y="310" font-size="10.5" fill="#334151">• Administrative Workout: The 1721 Commission du Visa wrote down claims by provenance (28%–46% implied macro haircut at 3%–4% rates).</text>
+</svg>
